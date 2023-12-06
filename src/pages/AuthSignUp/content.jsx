@@ -146,7 +146,7 @@ class Content extends Component {
                 <div className="form rui-sign-form rui-sign-form-cloud">
                     <div className="row vertical-gap sm-gap justify-content-center">
                         <div className="col-12">
-                            <h1 className="display-4 mb-10 text-center">Sign Up</h1>
+                            <h1 className="display-4 mb-10 text-center">SignUp</h1>
                         </div>
                         <div className="col-12">
                             <input
